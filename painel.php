@@ -1,5 +1,6 @@
 <?php
 session_start();
-
-echo "Ola,",($_SESSION['usuario']);exit;
 ?>
+
+
+<?php echo "Ola,",( $_SESSION['usuario']);?>
