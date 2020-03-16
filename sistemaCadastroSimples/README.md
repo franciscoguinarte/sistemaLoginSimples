@@ -1,2 +1,2 @@
-# sistemaCadastroSimples
-Sistema de cadastro simples PHP + MySQL
+# sistemaLogin
+Sistema de login simples PHP + MySQL
