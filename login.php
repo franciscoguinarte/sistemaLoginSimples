@@ -29,7 +29,9 @@ if ($row == 1){
 
 }
 else{
+  $_SESSION['nao_autenticado'] = true;
   header('Location: index.php');
+  
     exit();
 
 }
