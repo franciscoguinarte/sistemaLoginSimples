@@ -1,0 +1,12 @@
+.title1 {
+  /* Classes de header, footer */
+  padding: 1em;
+  /* em -> medida topográfica responsiva: 1em~~16px */
+  color: rgb(24, 165, 207);
+  background-color: rgb(66, 30, 100);
+  text-align: center;
+}
+nav {
+  border: solid black;
+  text-align: left;
+}
